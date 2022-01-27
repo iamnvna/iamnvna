@@ -1,4 +1,4 @@
-# Cobbinah Theophilus 💻
+# Cobbinah Theophilus 👨🏿‍💻
 Hi, I'm Cobbinah Theophilus and I've been a tech enthusiast for a long while now. I completed my undergraduate studies in Information Technology in 2021. I am interested in:
 - 📊 Data Visualisation & Analytics
 - 💾 Data Science & Engineering
