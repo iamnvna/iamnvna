@@ -1,4 +1,4 @@
-## Send an Email:
+## Say hi 👋🏿
 [tscobbinah@gmail.com](mailto:tscobbinah@gmail.com)
 
 
